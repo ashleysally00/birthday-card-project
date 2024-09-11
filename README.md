@@ -14,7 +14,7 @@ Welcome to the P5.js Birthday Card Project! This open-source initiative aims to 
 
 ### For Learners
 
-1. **New to P5.js?** Check out our [Quick Start Guide to P5.js](https://github.com/ashleysally00/the-birthday-card-project/blob/main/QUICK_START_GUIDE.md) to get up and running!   
+1. **New to P5.js?** Check out our [Quick Start Guide to P5.js](https://github.com/ashleysally00/the-birthday-card-project/blob/main/README.md) to get up and running!
 2. **Explore Examples**: Check out the [examples](https://github.com/ashleysally00/the-birthday-card-project/tree/main/examples) directory to see how other contributors have created their cards.
 3. **Follow Tutorials**: We've provided step-by-step [tutorials](https://github.com/ashleysally00/the-birthday-card-project/blob/main/Tutorials) to help you create your first card.
 4. **Create Your Card**: Use what you've learned to make your own unique birthday card!
