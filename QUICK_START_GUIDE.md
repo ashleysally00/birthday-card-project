@@ -21,7 +21,7 @@ P5.js is a JavaScript library that makes it easy to create graphics and interact
 ## Getting Started
 
 1. **Online Editor**: Try P5.js right away with the [online editor](https://editor.p5js.org/).
-2. **Official Tutorial**: Follow the [P5.js Get Started guide](https://p5js.org/get-started/).
+2. **Official Tutorial**: Follow the [P5.js Get Started guide](https://p5js.org/tutorials/).
 3. **Video Tutorials**: Check out [The Coding Train's P5.js tutorials](https://thecodingtrain.com/tracks/code-programming-with-p5-js) on YouTube.
 
 ## Beginner-Friendly Concepts to Explore
