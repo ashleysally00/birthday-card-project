@@ -46,7 +46,7 @@ We welcome contributions from coders of all skill levels! Here's how you can con
 - Suggest new features or improvements
 - Help review pull requests
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines.
+Please read our [CONTRIBUTING.md](https://github.com/ashleysally00/the-birthday-card-project/blob/main/contributing.md) file for detailed guidelines.
 
 ## Code of Conduct
 
