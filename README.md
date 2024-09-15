@@ -52,12 +52,6 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines.
 
 To ensure a welcoming and inclusive community, we ask all participants to adhere to our [Code of Conduct](https://github.com/ashleysally00/the-birthday-card-project/blob/main/Code-of-Conduct).
 
-## Code of Conduct
-
-To ensure a welcoming and inclusive community, we ask all participants to adhere to our [Code of Conduct](https://github.com/ashleysally00/the-birthday-card-project/blob/main/Code-of-Conduct.md).
-
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
