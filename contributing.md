@@ -1,66 +1,94 @@
 # Contributing to the Birthday Card Project
 
-Thank you for your interest and energy in the Birthday Card Project! We're excited to see this project grow with your creative ideas and implementations. Your contributions will help make it a valuable resource for creating and sharing birthday cards.
+Thank you for your interest in contributing to the Birthday Card Project! We're excited to see your creative birthday card designs. This guide will walk you through the process of adding your card to our project.
 
-## How to Contribute Your Birthday Card
+## Important Note on Contributing
 
-We welcome contributions of birthday cards created using p5.js. Your card can be added to our gallery or examples section, allowing others to learn from and be inspired by your creation.
+Contributors cannot directly add files to this repository. Instead, we use the fork and pull request model, which allows us to review all contributions before they're added. Here's an overview of the process:
 
-### Steps to Contribute:
+1. You'll create a copy (fork) of this project on your own GitHub account.
+2. Make your changes in your fork.
+3. Submit a pull request to have your changes reviewed and potentially added to the main project.
 
-1. **Fork the Repository**
-   - Click the "Fork" button at the top right of this repository's page.
-   - This will create a copy of the repository in your GitHub account.
+Don't worry if this sounds complicated - we'll guide you through each step!
 
-2. **Clone Your Fork**
-   - Open a terminal on your local machine.
-   - Run: `git clone https://github.com/your-username/Happy-birthday.git`
-   - Replace `your-username` with your GitHub username.
+## Step-by-Step Contribution Guide
 
-3. **Create a New Branch**
-   - Navigate into the cloned repository: `cd Happy-birthday`
-   - Create a new branch: `git checkout -b new-card-yourname`
-   - Replace `yourname` with your name or any identifier you prefer.
+### 1. Fork the Repository
 
-4. **Add Your Card**
-   - Place your p5.js sketch file (e.g., `yourname-card.js`) in the `gallery` or `examples` folder.
-   - If these folders don't exist, feel free to create them.
-   - Make sure your file has a unique name to avoid conflicts.
+- Go to the [Birthday Card Project repository](https://github.com/ashleysally00/the-birthday-card-project).
+- Click the "Fork" button in the top-right corner of the page.
+- This creates a copy of the project in your GitHub account.
 
-5. **Update the Gallery Index (Optional)**
-   - If there's a gallery index file (e.g., `gallery.md` or `examples.md`), add an entry for your card.
-   - Include a brief description and your name (if you want to be credited).
+### 2. Clone Your Fork
 
-6. **Commit Your Changes**
-   - Stage your changes: `git add .`
-   - Commit the changes: `git commit -m "Add new birthday card by [Your Name/Anonymous]"`
+- On your fork's GitHub page, click the "Code" button and copy the URL.
+- Open a terminal on your computer.
+- Run: `git clone [URL you just copied]`
+- This downloads your fork to your computer.
 
-7. **Push to Your Fork**
-   - Push your changes: `git push origin new-card-yourname`
+### 3. Create a New Branch
 
-8. **Create a Pull Request**
-   - Go to the original repository on GitHub.
-   - Click "Pull requests" and then "New pull request".
-   - Select your fork and the branch you created.
-   - Click "Create pull request".
-   - Fill in the details about your card. If you want to remain anonymous, you can simply describe the card without mentioning your name.
+- Navigate into the project folder: `cd the-birthday-card-project`
+- Create a new branch: `git checkout -b new-card-yourname`
+  (Replace 'yourname' with your name or any identifier)
 
-### Guidelines for Contributions:
+### 4. Add Your Card
+
+- Create your p5.js birthday card sketch.
+- Save it in the `examples` folder with a unique name (e.g., `yourname-birthday-card.js`).
+
+### 5. Commit Your Changes
+
+- Stage your new file: `git add examples/yourname-birthday-card.js`
+- Commit the change: `git commit -m "Add new birthday card by [Your Name]"`
+
+### 6. Push to Your Fork
+
+- Push your changes: `git push origin new-card-yourname`
+
+### 7. Create a Pull Request
+
+- Go back to your fork on GitHub.
+- Click "Pull request" (usually shown as a notice after you push).
+- Ensure the 'base repository' is the original project, and 'head repository' is your fork.
+- Click "Create pull request".
+- Fill in details about your card in the comment box.
+
+### 8. Wait for Review
+
+- The project maintainers will review your pull request.
+- They may ask for changes or clarifications.
+- If approved, your card will be merged into the main project!
+
+## Guidelines for Contributions
 
 - Ensure your p5.js sketch is well-commented and easy to understand.
 - Keep the file size reasonable (preferably under 1MB).
 - If your card uses any external resources (fonts, images), make sure they are freely licensed and include attribution in your comments.
 - Test your card to make sure it works correctly before submitting.
 
-### Anonymous Contributions
+  ## Attribution Options
 
-If you prefer to contribute anonymously:
-- Use a generic name for your file (e.g., `card001.js`, `birthday-card-blue.js`).
-- In the pull request description, mention that you wish to remain anonymous.
-- Don't include any personal identifying information in the code or comments.
+We respect your choices regarding attribution for your work. When contributing, you have several options:
 
-## Questions?
+1. **Use Your Real Name**: If you're comfortable, you can use your real name for attribution.
 
-If you have any questions about contributing, feel free to open an issue in the repository, and we'll be happy to help!
+2. **Use a Pseudonym/Invented Name**: You're welcome to use a creative nickname or invented name if you prefer.
 
-Thank you for your interest in contributing to the Birthday Card Project. Your creativity will help make birthdays more special for everyone!
+3. **Remain Anonymous**: If you'd rather not be credited by name, you can contribute anonymously.
+
+To specify your attribution preference:
+
+- In your pull request description, clearly state how you'd like to be credited. For example:
+  - "Please credit this contribution to Jane Doe"
+  - "Please credit this to @CoolCoder123"
+  - "I'd like to remain anonymous for this contribution"
+
+This information will be used to properly credit your work in the project, such as in a contributors list or in the gallery of birthday cards.
+
+## Need Help?
+
+If you're new to GitHub or need any help with this process, don't hesitate to open an issue in the repository. We're here to help you contribute successfully!
+
+Thank you for contributing to the Birthday Card Project. Your creativity will help make birthdays more special for everyone!
