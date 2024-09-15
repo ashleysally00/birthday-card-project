@@ -1,6 +1,6 @@
 # Contributing to the Birthday Card Project
 
-Thank you for your interest and energy in the Birthday Card Project! We're excited to see this project grow with your creative ideas and implementations. Your contributions will help make TBCP a valuable resource for creating and sharing birthday cards.
+Thank you for your interest and energy in the Birthday Card Project! We're excited to see this project grow with your creative ideas and implementations. Your contributions will help make it a valuable resource for creating and sharing birthday cards.
 
 ## How to Contribute Your Birthday Card
 
