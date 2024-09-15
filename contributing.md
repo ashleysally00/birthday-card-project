@@ -1,6 +1,6 @@
 # Contributing to the Birthday Card Project
 
-Thank you for thinking about adding your own design to the Birthday Card Project! We're excited to see your creative birthday card designs. This guide will walk you through the process of adding your card to our project.
+Thank you for being a contributor to the Birthday Card Project! We're excited to see your creative birthday card designs. This guide will walk you through the process of adding your card to our project.
 
 ## Important Note on Contributing
 
