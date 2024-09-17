@@ -6,7 +6,7 @@ Welcome to the P5.js Birthday Card Project! This open-source initiative aims to 
 ## Project Goals
 
 1. Teach beginners the basics of P5.js through practical, creative projects
-2. Encourage artistic expression and creativity in coding
+2. Encourage artistic expression and creativity in coding :art:
 3. Build a collection of unique, interactive birthday cards
 4. Foster a supportive community of learners and creators
 
