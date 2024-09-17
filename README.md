@@ -1,4 +1,4 @@
-# The Birthday Card Project
+# The Birthday Card Project :cupcake:
 ## P5.js Birthday Card Project
 
 Welcome to the P5.js Birthday Card Project! This open-source initiative aims to help beginners learn P5.js while creating and sharing interactive birthday cards. Whether you're new to coding or looking to expand your creative coding skills, this project provides a fun and practical way to explore P5.js.
