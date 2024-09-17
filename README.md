@@ -3,16 +3,16 @@
 
 Welcome to the P5.js Birthday Card Project! This open-source initiative aims to help beginners learn P5.js while creating and sharing interactive birthday cards. Whether you're new to coding or looking to expand your creative coding skills, this project provides a fun and practical way to explore P5.js.
 
-## Project Goals
+## Project Goals   :art:
 
 1. Teach beginners the basics of P5.js through practical, creative projects
-2. Encourage artistic expression and creativity in coding :art:
+2. Encourage artistic expression and creativity in coding
 3. Build a collection of unique, interactive birthday cards
 4. Foster a supportive community of learners and creators
 
 ## Getting Started
 
-### For Learners
+### For Learners 	😎
 
 1. **New to P5.js?** Check out our [Quick Start Guide to P5.js](https://github.com/ashleysally00/the-birthday-card-project/blob/main/QUICK_START_GUIDE.md) to get up and running!
 2. **Explore Examples**: Check out the [examples](https://github.com/ashleysally00/the-birthday-card-project/tree/main/examples) directory to see how other contributors have created their cards.
