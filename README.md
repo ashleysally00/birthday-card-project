@@ -59,6 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to the P5.js community for their amazing library and resources
-- Inspiration drawn from [list any inspirational projects or resources]
+- Inspiration drawn from (come back later, I will finish this!)
 
 Happy coding and creating! 🎨🎂
