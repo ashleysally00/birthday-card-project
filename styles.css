@@ -1,0 +1,27 @@
+/* Style for the main heading */
+.main-heading {
+  text-align: left; /* Left justify the heading */
+  font-size: 2em; /* Adjust the font size as needed */
+  margin-left: 20px; /* Add some left margin for spacing */
+}
+
+/* Style for the navigation links */
+nav ul {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+  margin-left: 20px; /* Align the links under the heading */
+}
+
+nav ul li {
+  margin: 10px 0; /* Add some space between links */
+}
+
+nav ul li a {
+  text-decoration: none; /* Remove underline from links */
+  font-size: 1.2em; /* Adjust the font size as needed */
+  color: #000; /* Change the link color */
+}
+
+nav ul li a:hover {
+  color: #007bff; /* Change link color on hover */
+}
