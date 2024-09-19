@@ -87,6 +87,17 @@ To specify your attribution preference:
 
 This information will be used to properly credit your work in the project, such as in a contributors list or in the gallery of birthday cards.
 
+## Bonus: Contributors Map
+
+We have a fun map showing where our contributors are from! 
+
+To view the map and add your location:
+1. [Click here to open our Contributors Map](https://ashleysally00.github.io/the-birthday-card-project/map.html)
+2. On the map page, click the '+' button to add your location.
+3. You can add your name (or stay anonymous).
+
+Putting youself on the map is entirely optional! 
+
 ## Need Help?
 
 If you're new to GitHub or need any help with this process, don't hesitate to open an issue in the repository. We're here to help you contribute successfully!
