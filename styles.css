@@ -40,9 +40,16 @@ nav ul li a:hover {
   color: #007bff;
 }
 
-/* Style for the cupcake emoji */
-.cupcake-emoji {
-  font-size: 8em; /* Make the emoji big */
-  display: block;
+/* Style for cupcake container */
+.cupcake-container {
+  display: flex;
+  justify-content: center; /* Center the cupcakes */
+  gap: 20px; /* Space between the cupcakes */
   margin: 20px auto;
+}
+
+/* Style for the cupcakes */
+.cupcake-emoji {
+  font-size: 10em; /* Make the cupcake emoji large */
+  margin: 0 auto;
 }
